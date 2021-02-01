@@ -1,0 +1,23 @@
+{
+  "version":"3.0",
+  "contentDelivery":{
+    "providers":[
+      {
+        "name":"helix",
+        "endpoint":"/"
+      }
+    ],
+    "defaultProvider":"helix"
+  },
+  "timestamp":1,
+  "entries":[
+    {
+      "path":"index.css",
+      "timestamp":1612198556
+    },
+    {
+      "path":"index.html.js",
+      "timestamp":1612198556
+    }
+  ]
+}
