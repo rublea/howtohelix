@@ -1,9 +1,9 @@
 {
-  "payload": [
+  "channels": [
     {
       "title": "DateChannel",
       "externalId": "date-channel",
-      "manifestPath": "/content/screens/petstore/channels/cats-photos/manifest.json",
+      "manifestPath": "/manifest.json",
       "lastModified": "2021-01-29T14:47:49.090Z",
       "unpackingStrategy": "_merged",
       "id": "83qq-1q1j-8xui",
