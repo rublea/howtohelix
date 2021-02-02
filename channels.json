@@ -1,0 +1,28 @@
+{
+  "payload": [
+    {
+      "title": "DateChannel",
+      "externalId": "date-channel",
+      "manifestPath": "/content/screens/petstore/channels/cats-photos/manifest.json",
+      "lastModified": "2021-01-29T14:47:49.090Z",
+      "unpackingStrategy": "_merged",
+      "id": "83qq-1q1j-8xui",
+      "createdAt": "2020-05-18T14:47:49.090Z",
+      "createdBy": {
+        "org": "Screens Internal Stage",
+        "user": "Jane Doe"
+      },
+      "updatedAt": "2020-05-18T14:47:49.090Z",
+      "updatedBy": {
+        "org": "Screens Internal Stage",
+        "user": "Jane Doe"
+      },
+      "removedAt": "2020-05-18T14:47:49.090Z",
+      "removedBy": {
+        "org": "Screens Internal Stage",
+        "user": "Jane Doe"
+      },
+      "tenantId": "12D7329F5BFD792W0A494000"
+    }
+  ]
+}
