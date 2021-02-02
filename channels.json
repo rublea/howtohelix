@@ -2,7 +2,7 @@
   "channels": [
     {
       "title": "DateChannel",
-      "externalId": "date-channel",
+      "externalId": "index",
       "manifestPath": "/manifest.json",
       "lastModified": "2021-01-29T14:47:49.090Z",
       "unpackingStrategy": "_merged",
