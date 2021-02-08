@@ -1,6 +1,6 @@
 body {
     margin: 5%;
-    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-family: Gill Sans, Gill Sans MT, sans-serif;
     display: grid;
     justify-content: center;
 }
