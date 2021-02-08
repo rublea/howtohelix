@@ -36,10 +36,10 @@ rollBtn.addEventListener("click", function() {
   }
 
   if (player1Score >= 20) {
-    message.textContent = "Human Won 🥳"
+    message.textContent = "Human Won 🥳🥳🥳!"
     showResetButton()
   }  else if (player2Score >= 20) {
-    message.textContent = "Lizard Won 🎉"
+    message.textContent = "Lizard Won 🎉🎉🎉!"
     showResetButton()
   }
   player1Turn = !player1Turn
